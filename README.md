@@ -1,4 +1,4 @@
-# IoT-Analysitcs_Assignment_2
+# Hotel Reviews Sentiment Analysis
 The goal of this project was to use various NLP techniques to analyze hotel reviews. 
 
 Various descriptive analytics were applied to further udnerstand the data behaviour, this was done through:
